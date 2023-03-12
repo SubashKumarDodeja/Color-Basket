@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds", "GoogleMobileAds.csproj", "{732509F1-6790-EF2D-3C3F-9F0B1C76D47E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{DF40AC3B-AD60-2515-B309-45BF601F8887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Runtime", "NativeShare.Runtime.csproj", "{C64D4340-CC60-DA1C-42B2-8E12634EABA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMobileAds.Editor", "GoogleMobileAds.Editor.csproj", "{44684CE9-FD84-202E-AC1C-499813FA2C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Editor", "NativeShare.Editor.csproj", "{76AA152D-C291-5E12-56B8-369071ECAA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{732509F1-6790-EF2D-3C3F-9F0B1C76D47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{732509F1-6790-EF2D-3C3F-9F0B1C76D47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{732509F1-6790-EF2D-3C3F-9F0B1C76D47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{732509F1-6790-EF2D-3C3F-9F0B1C76D47E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF40AC3B-AD60-2515-B309-45BF601F8887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF40AC3B-AD60-2515-B309-45BF601F8887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF40AC3B-AD60-2515-B309-45BF601F8887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF40AC3B-AD60-2515-B309-45BF601F8887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64D4340-CC60-DA1C-42B2-8E12634EABA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64D4340-CC60-DA1C-42B2-8E12634EABA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64D4340-CC60-DA1C-42B2-8E12634EABA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64D4340-CC60-DA1C-42B2-8E12634EABA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44684CE9-FD84-202E-AC1C-499813FA2C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44684CE9-FD84-202E-AC1C-499813FA2C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44684CE9-FD84-202E-AC1C-499813FA2C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44684CE9-FD84-202E-AC1C-499813FA2C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AA152D-C291-5E12-56B8-369071ECAA66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AA152D-C291-5E12-56B8-369071ECAA66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AA152D-C291-5E12-56B8-369071ECAA66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AA152D-C291-5E12-56B8-369071ECAA66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
